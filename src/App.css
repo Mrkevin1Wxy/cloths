@@ -1,0 +1,29 @@
+
+.homeHead{
+  height: 1.4rem;
+  background-color:#171B2A;
+  line-height:1.4rem;
+}
+
+
+.logoBox{
+  height: 100%;
+  line-height: 2.03rem;
+}
+.headLogo{
+  width:90%;
+  
+}
+
+.headTitle{
+  color:white;
+  font-size:0.26rem;
+ 
+}
+.titleBox{
+  text-align: center;
+}
+.titleBox{
+  cursor: pointer;
+}
+
