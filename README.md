@@ -1,21 +1,11 @@
-# web
+# 东服祥制衣厂网站
 
-> y
+> yang
 
-## Build Setup
+## 个人前端项目
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+```
+基于vue的简单项目 几乎是纯静态界面
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
